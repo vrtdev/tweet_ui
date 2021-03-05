@@ -5,6 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+## [2.4.2] - 10.12.2020
+### Changed
+- Fixed Textoverflow in `RetweetInformation`
+
+## [2.4.1] - 30.11.2020
+### Changed
+- Update better_player
 
 ## [2.4.0] - 20.11.2020
 ### Removed
@@ -26,6 +33,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update cached_network_image, video_player, photo_view, url_launcher, html_unescape
 ### Fixed
 - Respect favorited value in EmbeddedTweetView schibsted/tweet_ui#52
+
+## [2.2.0+2] - 17.07.2020
+### Changed
+- Fix formating
+
+## [2.2.0+1] - 17.07.2020
+### Changed
+- Update video_player and url_launcher
+- Improve documentation
+- Fix formating
+
+## [2.2.0+3] - 17.07.2020
+### Changed
+- Fix formating
 
 ## [2.2.0+2] - 17.07.2020
 ### Changed
